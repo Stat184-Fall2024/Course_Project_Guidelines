@@ -11,8 +11,8 @@ The purpose of this project is to provide you with an opportunity to put into pr
 This project has several key dates that you need to be aware of.
 
 1) Course Project Guidelines Template Repo becomes available--Nov. 22nd, 2024
-2) Teams get finalized--Dec. 1st, 2024 (in class)
-3) Teams sign-up for their Work-in-Progress Presentation Time Slots--Dec. 2nd, 2024 (in class)
+2) Teams get finalized--Dec. 4th, 2024 (in class)
+3) Teams sign-up for their Work-in-Progress Presentation Time Slots--Dec. 6th, 2024 (in class)
 4) Work-in-Progress Presentations--Dec. 11th and Dec. 13th, 2024 (in class)
 5) Project Report Due--Dec. 18th, 2024 by 11:59pm via Canvas Submission Portal
 6) Self & Peer Evaluations for the Project--Dec. 19th, 2024 by 11:59pm via Canvas Submission Portal
