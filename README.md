@@ -24,6 +24,7 @@ We present the guidelines as a checklist in this README. This means that your te
 - [ ] Read through README
 - [ ] Find 1 or 2 other individuals who you want to work with and form a team. (NOTE: unless you have specifically been given permission to do so, __you may not work alone__.)
 - [ ] Create a repo using this template repo. Name your repo `Sec#_FP_Name1_Name2_Name3` where `Sec#` is your section of Stat184 (i.e., `Sec1`, `Sec2`, `Sec3`, or `Sec4`) and `Name#` is replaced with the names of each team member.
+  - [ ] The owner of the repo should be `Stat184-Fall2024`. 
 - [ ] Make sure that each team member has access to the repo.
 - [ ] Come up with a topic and set of research questions your team will explore.
 - [ ] Make a plan for your work. We suggested putting together your work plan by <mark>Wednesday, Dec. 1, 2024</mark>.
@@ -62,6 +63,7 @@ We present the guidelines as a checklist in this README. This means that your te
   - [ ] There should be at must be at least one Pull Request that resulted in a successful merging of two branches.
   - [ ] One team member should create the Pull Request while a *different* team member should review and complete the Pull Request.
   - [ ] Ensure that your instructor has access to your repo.
+  - [ ] __Optional:__ Use the repo's Issues system to track and address any problems, core tasks, etc. 
 - [ ] All code should be written according to a Style Guide of your choice. List this Style Guide as a code comment in your first code chunk.
   - __Possible Style Guides:__ There are several different coding Style Guides you can follow; here are a few. [The BOAST Style Guide](https://educationshinyappteam.github.io/Style_Guide/coding.html), [The Tidyverse Style Guide](https://style.tidyverse.org/), [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html)
 - [ ] Sign up for your Work-in-Progress Presentation
