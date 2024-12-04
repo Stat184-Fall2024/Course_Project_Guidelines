@@ -27,7 +27,7 @@ We present the guidelines as a checklist in this README. This means that your te
   - [ ] The owner of the repo should be `Stat184-Fall2024`. 
 - [ ] Make sure that each team member has access to the repo.
 - [ ] Come up with a topic and set of research questions your team will explore.
-- [ ] Make a plan for your work. We suggested putting together your work plan by <mark>Wednesday, Dec. 1, 2024</mark>.
+- [ ] Make a plan for your work. We suggested putting together your work plan by <mark>Wednesday, Dec. 4, 2024</mark>.
 - [ ] Locate appropriate data sources for your project.
   - [ ] Your main data source may __not__ be one that we used in class nor be found in any R package.
   - [ ] Supplementary data sources may come from anywhere.
@@ -70,7 +70,7 @@ We present the guidelines as a checklist in this README. This means that your te
 - [ ] Complete your Work-in-Progress Presentation (details below)
 - [ ] Finalize your work and submit your report as a __PDF__ to the appropriate submission portal in Canvas by the deadline.
   - [ ] As a comment on your submission, include a link to your team's project repo.
-- [ ] Each team member must complete their own copy of the Self & Pear Evaluations QMD file and upload the rendered file to the appropriate submission portal in Canvas by the deadline.
+- [ ] Each team member must complete their own copy of the Self & Peer Evaluations QMD file and upload the rendered file (HTML, PDF, or Word) to the appropriate submission portal in Canvas by the deadline.
 
 ## Work-in-Progress Presentations
 
